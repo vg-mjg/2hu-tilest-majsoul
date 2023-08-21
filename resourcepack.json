@@ -1,0 +1,18 @@
+{
+  "id": "2hu",
+  "version": "3.0.0",
+  "name": "2hu tileset",
+  "author": "guano",
+  "description": "Replaces tiles with 2hu set. China is chun",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": ["scene/Assets/Resource/mjpaimian/en_kr/mjpface_default_0/hand.png",
+  "res/atlas/en/myres2/mjpm/mjpface_default_0/ui.png",
+  "scene/Assets/Resource/mjpaimian/en_kr/mjpface_default_0/mjp.png",
+  "scene/Assets/Resource/mjpaimian/en_kr/mjpface_default/hand.png",
+  "res/atlas/en/myres2/mjpm/mjpface_default/ui.png",
+  "scene/Assets/Resource/mjpaimian/en_kr/mjpface_default/mjp.png"]
+}
